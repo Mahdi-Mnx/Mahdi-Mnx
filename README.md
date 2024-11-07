@@ -13,3 +13,5 @@ I'm a fullstack developer passionate about creating efficient, scalable, and use
 
 ## 📈 GitHub Stats
 ![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mnx&show_icons=true&theme=default)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
