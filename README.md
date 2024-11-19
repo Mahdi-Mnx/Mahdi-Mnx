@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 I'm a fullstack developer passionate about creating efficient, scalable, and user-friendly applications.
 
-- 🌱 I’m currently learning **Flutter** for mobile development and advancing my skills in TypeScript and backend optimization.
+- 🌱 I’m currently learning **Flutter** for mobile development and advancing my skills in python frappe and backend optimization.
 - 💬 Ask me about **JavaScript, React, Node.js, and Express**.
 
 ## 🔧 Tech Stack
