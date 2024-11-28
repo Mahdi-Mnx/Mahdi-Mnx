@@ -1,4 +1,4 @@
-# Hi My Friendo 👋, I'm Mahdi!
+# Hello My Friendo 👋, I'm Mahdi!
 
 ## 👨‍💻 About Me
 I'm a fullstack developer passionate about creating efficient, scalable, and user-friendly applications.
