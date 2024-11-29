@@ -15,10 +15,5 @@ I'm a fullstack developer passionate about creating efficient, scalable, and use
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-
-## 📈 GitHub Stats
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mnx&show_icons=true&theme=default)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahdi-Mnx&color=brightgreen)
 
