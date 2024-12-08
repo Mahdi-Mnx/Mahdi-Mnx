@@ -18,5 +18,4 @@ I'm a fullstack developer passionate about creating efficient, scalable, and use
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahdi-Mnx&color=brightgreen)
 
 ## 🔧 GitHub Stats
-![Mahdi-Mnx's Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mnx&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Mahdi-Mnx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Mnx&theme=vue-dark&hide_border=false)
+![Mahdi-Mnx's Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mnx&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)![Mahdi-Mnx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Mnx&theme=vue-dark&hide_border=false)
