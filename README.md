@@ -19,4 +19,5 @@ I'm a fullstack developer passionate about creating efficient, scalable, and use
 
 ## 🔧 GitHub Stats
 ![Mahdi-Mnx's Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mnx&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
 ![Mahdi-Mnx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi-Mnx&theme=vue-dark&hide_border=true)
