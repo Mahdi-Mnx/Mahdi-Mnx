@@ -18,5 +18,6 @@ I'm a fullstack developer passionate about creating efficient, scalable, and use
 ![Profile Views](https://komarev.com/ghpvc/?username=Mahdi-Mnx&color=brightgreen)
 
 ## 🔧 GitHub Stats
-![My GitHub Stats](https://vercel.app)
+![My Streak Stats](https://demolab.com)
+
 
