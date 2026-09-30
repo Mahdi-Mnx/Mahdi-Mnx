@@ -13,6 +13,8 @@ on:
 permissions:
   contents: write
 
+# README_STATS_PAT enables private repository stats.
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
