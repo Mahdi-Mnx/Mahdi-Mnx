@@ -23,6 +23,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Verify private repository access
+        env:
+          GH_TOKEN: ${{ secrets.README_STATS_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::error::README_STATS_PAT is missing"
+            exit 1
+          fi
+          login=$(gh api user --jq '.login')
+          private_count=$(gh api --paginate 'user/repos?visibility=private&affiliation=owner,collaborator,organization_member&per_page=100' --jq '.[].id' | wc -l | tr -d ' ')
+          echo "PAT authenticated as: $login"
+          echo "Private repositories visible to PAT: $private_count"
+
       - name: Generate GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
