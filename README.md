@@ -21,8 +21,8 @@ I'm a Full-Stack Developer passionate about creating efficient, scalable, and us
 
 ## 📊 GitHub Stats
 
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Mnx&show_icons=true&theme=github_dark)
+![Mahdi's GitHub Stats](./profile/stats.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mahdi-Mnx&theme=github-dark-blue)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Mnx&layout=compact&theme=github_dark)
+![Top Languages](./profile/top-langs.svg)
